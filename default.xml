@@ -42,9 +42,9 @@
   <project path="device/samsung/i9500" name="AOSP-S4/android_device_samsung_i9500" groups="pdk" remote="github" revision="jb-4.3" />
   <project path="device/samsung/msm8960-common" name="AOSP-S4/android_device_samsung_msm8960-common" groups="pdk" remote="github" revision="jb-4.3" />
   <project path="device/samsung/qcom-common" name="AOSP-S4/android_device_samsung_qcom-common" groups="pdk" remote="github" revision="jb-4.3" />
-  <project path="device/samsung/msm8660-common" name="muddy1/device_samsung_msm8660-common" remote="github" revision="master" />
-  <project path="device/samsung/celox-common" name="muddy1/device_samsung_celox-common" remote="github" revision="master" />
-  <project path="device/samsung/hercules" name="muddy1/device_samsung_hercules" remote="github" revision="master" />
+  <project path="device/samsung/msm8660-common" name="AOSP-T989/device_samsung_msm8660-common" remote="github" revision="jb4.3" />
+  <project path="device/samsung/celox-common" name="AOSP-T989/device_samsung_celox-common" remote="github" revision="jb4.3" />
+  <project path="device/samsung/hercules" name="AOSP-T989/device_samsung_hercules" remote="github" revision="jb4.3" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
