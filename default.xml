@@ -45,6 +45,7 @@
   <project path="device/samsung/msm8660-common" name="AOSP-T989/device_samsung_msm8660-common" remote="github" revision="jb4.3" />
   <project path="device/samsung/celox-common" name="AOSP-T989/device_samsung_celox-common" remote="github" revision="jb4.3" />
   <project path="device/samsung/hercules" name="AOSP-T989/device_samsung_hercules" remote="github" revision="jb4.3" />
+  <project path="kernel/samsung/msm8660-common" name="Cl3Kener/HERC-KERNELS" remote="github" revision="stable-jb43" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
